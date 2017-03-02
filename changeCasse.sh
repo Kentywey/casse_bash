@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo bonjour
+tr '[a-z][A-Z]' '[A-Z][a-z]'
